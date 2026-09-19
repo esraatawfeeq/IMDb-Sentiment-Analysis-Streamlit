@@ -26,3 +26,5 @@ pip install -r requirements.txt
 
 # Run Streamlit App
 streamlit run app.py
+Dataset:
+يمكنك تحميل ملف البيانات IMDB Dataset.csv من الرابط التالي وضعها في مجلد لمشروع: [https://drive.google.com/file/d/1fG5VgvdGt84gEy9jKThgDMmFg3PsPLl9/view?usp=sharing
